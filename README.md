@@ -10,3 +10,5 @@
 - ⚡ Fun fact: Once I won a guitar solo contest and got a brand new guitar 🎸 
 
 [![Saul's GitHub stats](https://github-readme-stats.vercel.app/api?username=saulmontesdeoca&theme=nightowl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saulmontesdeoca&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
