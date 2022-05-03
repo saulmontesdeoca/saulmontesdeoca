@@ -1,11 +1,11 @@
 ### Hey there, I'm Saul 👋
-
-- 🔭 I’m currently working on the MLH Production Engineering Fellowship
-- 🌱 I’m currently learning DevOps
+🚀
+- 🔭 I’m about to graduate  B.S. Computer Science
+- 🌱 I’m currently learning Computer Vision
 - 👯 I’m looking to collaborate on Open Source projects
 - 🤔 I’m looking for help with DevOps
-- 💬 Ask me about music stuff 🎹
-- 📫 How to reach me: a01025975@itesm.mx - [LinkedIn](https://www.linkedin.com/in/saulmontesdeoca/)
+- 💬 Ask me about music stuff 🎹 
+- 📫 How to reach me: saulmdomtz@gmail.com - [LinkedIn](https://www.linkedin.com/in/saulmontesdeoca/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Once I won a guitar solo contest and got a brand new guitar 🎸 
 
