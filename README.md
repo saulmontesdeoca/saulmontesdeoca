@@ -1,6 +1,5 @@
 ### Hey there, I'm Saul 👋
-🚀
-- 🔭 I’m about to graduate  B.S. Computer Science
+- 🔭 I’m about to graduate 🚀 B.S. Computer Science
 - 🌱 I’m currently learning Computer Vision
 - 👯 I’m looking to collaborate on Open Source projects
 - 🤔 I’m looking for help with DevOps
