@@ -1,8 +1,8 @@
 ### Hey there, I'm Saul 👋
-- 👨🏾‍💻 I'm a Software Developer @ Oracle 👾
+- 👨🏾‍💻 I'm a Software Engineer @ Tesla 👾🔋
 - 🎓 I have a B.S. in Computer Science 🚀
 - 🌱 I’m currently learning piano 🎹
-- 👯 I’m looking to collaborate on Open Source projects in my free time <!-- - 🤔 I’m looking for help with DevOps -->
+<!-- - 👯 I’m looking to collaborate on Open Source projects in my free time <!-- - 🤔 I’m looking for help with DevOps -->
 - 💬 Ask me about music stuff 🎻 
 - 📫 How to reach me: saulmdomtz@gmail.com - [LinkedIn](https://www.linkedin.com/in/saulmontesdeoca/)
 - 😄 Pronouns: he/him
