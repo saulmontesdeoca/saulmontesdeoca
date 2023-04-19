@@ -5,6 +5,7 @@
 <!-- - 👯 I’m looking to collaborate on Open Source projects in my free time <!-- - 🤔 I’m looking for help with DevOps -->
 - 💬 Ask me about music stuff 🎻 
 - 📫 How to reach me: saulmdomtz@gmail.com - [LinkedIn](https://www.linkedin.com/in/saulmontesdeoca/)
+- 💼 Take a look at my [portfolio](https://saulmontesdeoca.github.io/portfolio/)!
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Once I won a guitar solo contest and got a brand new guitar 🎸 🤘
 
